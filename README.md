@@ -28,15 +28,15 @@
 의료/간호 관리 서비스 팀 프로젝트
 
 - 🔗 레포: https://github.com/Hoguward/codeRelief
-- 🛠 기술 스택: Java, Spring 기반 구조
 ---
 
 ## 🏃 2. coRunning
 
 협업 러닝(코러닝) 서비스 팀 프로젝트
 
-- 🔗 레포: https://github.com/Naseoi1022/coRunningBack
-- 🛠 스택: Java, Gradle
+- 🏢 조직: https://github.com/coRunning
+- 🔗 BackEnd: https://github.com/Naseoi1022/coRunningBack (Java)
+- 🔗 FrontEnd: https://github.com/yulim1115/coRunningFront (React)
 ---
 
 ## 🥗 3. 냉가이드
@@ -46,7 +46,6 @@
 - 🏢 조직: https://github.com/Tjoeun4
 - 🔗 BackEnd: https://github.com/Tjoeun4/BackEnd (Java)
 - 🔗 FrontEnd: https://github.com/Tjoeun4/FrontEnd (Dart)
-
 ---
 
 ## 🚚 4. BoxMon
@@ -57,10 +56,7 @@
 - 🏢 조직: https://github.com/Tjoeun-Final-Proj
 - 🔗 BE: https://github.com/Tjoeun-Final-Proj/BE (Java)
 - 🔗 FE: https://github.com/Tjoeun-Final-Proj/FE (Dart)
-- 🔗 AdminFE: https://github.com/Tjoeun-Final-Proj/AdminFE (JavaScript)
-
-### 🛠 기술 스택
-Java, Spring Boot, JPA, MySQL, JWT, REST API
+- 🔗 AdminFE: https://github.com/Tjoeun-Final-Proj/AdminFE (React)
 ---
 
 # 📚 Study Archive
