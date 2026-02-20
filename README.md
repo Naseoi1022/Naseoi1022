@@ -2,17 +2,54 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Naseoi1022-181717?style=flat-square&logo=github)](https://github.com/Naseoi1022)
 
-</div>
-
 ---
 
 ## 🎯 About Me
-- 🧠 **강점**: 백엔드 설계 경험을 기반으로 데이터 흐름과 구조를 이해
-- 🚀 **목표**: 데이터를 안정적으로 수집·가공·저장하여 비즈니스 의사결정에 기여하는 엔지니어
 
-백엔드 개발 프로젝트를 수행하며  
-**데이터 무결성, 인증/인가 구조, 트랜잭션 관리, DB 설계의 중요성**을 경험했고  
-이를 기반으로 데이터 엔지니어링 역량을 확장하고 있습니다.
+- 🧠 **강점**: 백엔드 설계 경험을 기반으로 데이터 흐름과 구조를 이해  
+- 🚀 **목표**: 데이터를 안정적으로 수집·가공·저장하여 비즈니스 의사결정에 기여하는 엔지니어  
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥 Backend
+- **Java**, **Spring Boot**
+- REST API 설계
+- Spring Security (JWT 기반 인증/인가)
+- WebSocket & STOMP
+- Spring Data JPA
+- Swagger (SpringDoc OpenAPI)
+
+### 🗄 Database
+- **MySQL**, **Oracle**
+- 관계형 데이터 모델링 (ERD 설계)
+- JPA 기반 엔티티 설계
+- @Transactional 기반 트랜잭션 관리
+- 복잡 조건 검색 쿼리 작성 (@Query)
+
+### 🤖 Data & AI Integration
+- Google Gemini API 연동
+- 비정형 데이터 → 정형 데이터 변환 로직 설계
+- AI 응답 검증 및 데이터 정합성 처리
+- OCR 기반 데이터 추출 경험
+
+### ☁️ Infra & Deployment
+- AWS EC2 배포 경험
+- AWS S3 사용 경험
+- 서버 배포 및 운영 경험
+
+### 🌐 Frontend (협업 경험)
+- React
+- JavaScript
+- HTML/CSS
+- Flutter (Dart)
+
+### 🧪 Testing & Collaboration
+- Postman API 테스트
+- Git / GitHub 브랜치 전략 운영
+- PR 기반 협업 경험
+- Swagger 기반 API 문서 공유
 
 ---
 
@@ -22,7 +59,6 @@
 학습 정리 내용은 [`study/`](./study/) 폴더에 별도로 정리했습니다.
 
 ---
-
 ## 🏥 1. NursingApp
 
 의료/간호 관리 서비스 팀 프로젝트
