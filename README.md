@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 데이터 엔지니어를 꿈꾸는 신입 개발자 **나서이** 입니다.
+# 👋 안녕하세요, 신입 개발자 **나서이** 입니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Naseoi1022-181717?style=flat-square&logo=github)](https://github.com/Naseoi1022)
 
@@ -7,9 +7,6 @@
 ## 🎯 About Me
 
 - 🧠 **강점**: 백엔드 설계 경험을 기반으로 데이터 흐름과 구조를 이해  
-- 🚀 **목표**: 데이터를 안정적으로 수집·가공·저장하여 비즈니스 의사결정에 기여하는 엔지니어  
-
----
 
 ## 🔧 Tech Stack
 
