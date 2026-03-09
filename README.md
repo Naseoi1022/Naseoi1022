@@ -6,17 +6,16 @@
 
 ## 🎯 About Me
 
-- 🧠 **강점**: 백엔드 설계 경험을 기반으로 데이터 흐름과 구조를 이해  
-
-## 🔧 Tech Stack
+- 🧠 **강점**: 백엔드 설계 경험을 기반으로 데이터 흐름과 구조를 이해
+- 🔧 Tech Stack
 
 ### 🖥 Backend
 - **Java**, **Spring Boot**
 - REST API 설계
 - Spring Security (JWT 기반 인증/인가)
-- WebSocket & STOMP
 - Spring Data JPA
 - Swagger (SpringDoc OpenAPI)
+- Python
 
 ### 🗄 Database
 - **MySQL**, **Oracle**
@@ -34,7 +33,6 @@
 ### ☁️ Infra & Deployment
 - AWS EC2 배포 경험
 - AWS S3 사용 경험
-- 서버 배포 및 운영 경험
 
 ### 🌐 Frontend (협업 경험)
 - React
